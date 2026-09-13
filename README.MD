@@ -31,7 +31,7 @@ pip install pymupdf
 ## Uso
 
 ```bash
-python vectorizer.py
+python main.py
 ```
 
 Opções:
@@ -67,7 +67,7 @@ Arquivos Markdown gerados no diretório `docs` com o nome do arquivo original, s
 ## Teste
 
 ```bash
-python vectorizer.py
+python main.py
 ```
 
 Verifique a saída nos arquivos do diretório `docs`.
