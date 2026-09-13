@@ -1,0 +1,14 @@
+# Bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Generated output
+docs/
+input_files/
+
+# Environment variables
+.env
